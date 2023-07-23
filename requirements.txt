@@ -1,0 +1,11 @@
+torch
+torchvision
+gym
+atari_py
+opencv-python
+numpy
+psutil
+pyprind
+tqdm
+tensorboard
+moviepy
